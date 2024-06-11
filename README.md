@@ -10,7 +10,7 @@ A simple React app to display random quotes from Ron Swanson and save your favor
 
 ## Live Demo
 
-Check out the live demo of the app [here](https://ron-swanson-quotes.vercel.app).
+Check out the live demo of the app [here](https://ron-swanson-quotes-rho.vercel.app/).
 
 ## Screenshots
 
